@@ -1,4 +1,4 @@
-# COMPENG 4SL4 Assignment #5
+# COMPENG 4SL4: Fundamentals of Machine Learning, Assignment #5
 
 This COMPENG 4SL4 assignment experiments with neural network classifiers with two hidden layers for binary classification. 
 The banknote authentication data set is used. There are four predictor variables (i.e., features) and the goal 
